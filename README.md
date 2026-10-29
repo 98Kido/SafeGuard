@@ -163,25 +163,25 @@ No performance figures or successful validation results are claimed at the conce
 
 ## Roadmap
 
-**Stage 1 — Design**
+**Stage 1 - Design**
 - Define the user journey, detectable data patterns and warning messages.
 - Finalise the initial prototype scope.
 
-**Stage 2 — Prototype**
+**Stage 2 - Prototype**
 - Build the Streamlit interface.
 - Implement detection and sanitisation rules.
 - Display findings and compare original and revised prompts.
 
-**Stage 3 — Test**
+**Stage 3 - Test**
 - Create labelled fictional test prompts.
 - Measure detection errors and sanitisation correctness.
 - Document limitations and test results.
 
-**Stage 4 — Refine**
+**Stage 4 - Refine**
 - Improve detection rules and user-facing explanations.
 - Address issues identified during testing.
 
-**Stage 5 — Explore future improvements**
+**Stage 5 - Explore future improvements**
 - Assess organisation-specific policies, browser integration and deployment controls after the core workflow has been evaluated.
 
 ## Who Could Benefit?
@@ -233,4 +233,4 @@ The long-term goal is to explore a practical way to help people use AI more resp
 
 ---
 
-**Safe Guard — Protect the prompt. Preserve the work.**
+**Safe Guard - Protect the prompt. Preserve the work.**
