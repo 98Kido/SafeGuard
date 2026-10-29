@@ -37,11 +37,11 @@ Instead of banning AI use altogether, the proposed solution helps users understa
 
 The intended workflow is:
 
-1. **Compose** — Enter the text intended for an AI assistant.
-2. **Scan** — Check the prompt for selected patterns associated with sensitive information.
-3. **Explain** — Display detected findings with clear labels and plain-language explanations.
-4. **Sanitise** — Replace detected values with placeholders such as `[EMAIL REDACTED]` or `[PHONE REDACTED]`.
-5. **Review** — Compare the original and revised prompts and decide whether the revised version is still useful.
+1. **Compose** - Enter the text intended for an AI assistant.
+2. **Scan** - Check the prompt for selected patterns associated with sensitive information.
+3. **Explain** - Display detected findings with clear labels and plain-language explanations.
+4. **Sanitise** - Replace detected values with placeholders such as `[EMAIL REDACTED]` or `[PHONE REDACTED]`.
+5. **Review** - Compare the original and revised prompts and decide whether the revised version is still useful.
 
 The user remains responsible for reviewing the final prompt before sharing it.
 
